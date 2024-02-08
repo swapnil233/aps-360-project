@@ -1,1 +1,1 @@
-# aps-360-project
+# Trash Classification using Deep Learning
